@@ -1,2 +1,2 @@
 # CPC
- Solutions to common competitive programming challenges
+ Solutions to common competitive programming challenges.
